@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Chorals](HTTPS://www.chorals.io)
 
-- 🌱 I’m currently learning **AWS Developer Associate**
+- 🌱 I’m currently studying for my **AWS Developer Associate** certificate
 
-- 👨‍💻 All of my projects are available at [Bouchard.Vercel.app](Bouchard.Vercel.app)
+- 👨‍💻 All of my projects are available at [Bouchard.Vercel.app](https://www.Bouchard.Vercel.app)
 
-- 📫 How to reach me **JoeCBouchard@gmail.com**
+- 📫 Email me at **JoeCBouchard@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
