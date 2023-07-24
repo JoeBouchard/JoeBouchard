@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Chorals](HTTPS://www.chorals.io)
 
-- 🌱 I’m currently studying for my **AWS Developer Associate** certificate
+- 🌱 I’m recently got my **AWS Developer Associate** certificate
 
 - 👨‍💻 All of my projects are available at [Bouchard.Vercel.app](https://www.Bouchard.Vercel.app)
 
