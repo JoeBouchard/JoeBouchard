@@ -5,9 +5,9 @@
 
 <h3 align="center">A fullstack developer specializing in React and Typescript, with skills in C# & .NET.</h3>
 
-- 🔭 I’m currently working on [Chorals](HTTPS://www.chorals.io)
+- 🔭 I’m currently learning [Angular](https://github.com/JoeBouchard/angular-sandbox)
 
-- 🌱 I’m recently got my **AWS Developer Associate** certificate
+- 🌱 I recently got my **AWS Developer Associate** certificate
 
 - 👨‍💻 All of my projects are available at [Bouchard.Vercel.app](https://www.Bouchard.Vercel.app)
 
