@@ -3,13 +3,13 @@
     Joe Bouchard
 </h1>
 
-<h3 align="center">A fullstack developer specializing in React and Typescript, with skills in C# & .NET.</h3>
+<h3 align="center">A fullstack developer specializing in React and Typescript, with proficiencies in C#/.NET and AWS.</h3>
 
-- 🔭 I’m currently learning [Angular](https://github.com/JoeBouchard/angular-sandbox)
+- 🔭 I’m currently learning [Angular](https://github.com/JoeBouchard/angular-sandbox) and [Ruby](https://github.com/JoeBouchard/ruby-apps)
 
 - 🌱 I recently got my **AWS Developer Associate** certificate
 
-- 👨‍💻 All of my projects are available at [Bouchard.Vercel.app](https://www.Bouchard.Vercel.app)
+- 👨‍💻 All of my React projects are available at [Bouchard.Vercel.app](https://www.Bouchard.Vercel.app)
 
 - 📫 Email me at **JoeCBouchard@gmail.com**
 
