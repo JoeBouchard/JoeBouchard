@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://avatars.githubusercontent.com/u/32207808?v=4" height="120px" style="border-radius: 60px"/>
+    <img src="https://avatars.githubusercontent.com/u/32207808?v=4" height="120px" style="border-radius: 60px;border:1px solid #555;"/>
     <p>Joe Bouchard</p>
 </h1>
 
