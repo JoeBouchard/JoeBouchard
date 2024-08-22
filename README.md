@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://avatars.githubusercontent.com/u/32207808?v=4" height="60px" style="border-radius: 100%"/>
-    Joe Bouchard
+    <img src="https://avatars.githubusercontent.com/u/32207808?v=4" height="60px" style="border-radius: 60px"/>
+    <p>Joe Bouchard</p>
 </h1>
 
-<h3 align="center">A fullstack developer specializing in React and Typescript, with proficiencies in C#/.NET and AWS.</h3>
+<h3 align="center">A fullstack developer specializing in React and Typescript with proficiencies in C#/.NET and AWS.</h3>
 
 - 🔭 I’m currently learning [Angular](https://github.com/JoeBouchard/angular-sandbox) and [Ruby](https://github.com/JoeBouchard/ruby-apps)
 
