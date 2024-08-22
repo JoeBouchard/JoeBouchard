@@ -1,10 +1,5 @@
 <h1 align="center">
-    <div style="
-            width: fit-content;
-            height: 120px;
-            border-radius: 100%;
-            overflow: hidden;
-            margin: 0 auto;">
+    <div style="width: fit-content;height: 120px;border-radius: 100%;overflow: hidden;margin: 0 auto;">
         <img src="https://avatars.githubusercontent.com/u/32207808?v=4" height="120px" style="border-radius: 60px;border:1px solid #555;"/>
     </div>
     <p>Joe Bouchard</p>
