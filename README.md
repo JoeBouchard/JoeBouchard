@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning [Angular](https://github.com/JoeBouchard/angular-sandbox) and [Ruby](https://github.com/JoeBouchard/ruby-apps)
 
-- 🌱 I recently got my **AWS Developer Associate** certificate
+- 🌱 I recently got my **AWS Developer Associate** certificate and am studying for **CompTIA Security+**
 
 - 👨‍💻 All of my React projects are available at [Bouchard.Vercel.app](https://www.Bouchard.Vercel.app)
 
